@@ -10,5 +10,5 @@ for j in range(2,n,3):
     cnt+=1
     a+=arr[j]
     
-print(rst, a/cnt)
+print(f'{rst} {a/cnt:.1f}')
 
