@@ -32,7 +32,7 @@ for i in range(len(arr)):
         nine+=1
 print(one)
 print(two)
-print(thee)
+print(three)
 print(four)
 print(five)
 print(six)
