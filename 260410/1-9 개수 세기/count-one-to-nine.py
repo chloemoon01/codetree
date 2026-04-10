@@ -31,11 +31,14 @@ for i in range(len(arr)):
     if arr[i]==9:
         nine+=1
 print(one)
-print(one)
-print(one)
-print(one)
-print(one)
-
+print(two)
+print(thee)
+print(four)
+print(five)
+print(six)
+print(seven)
+print(eight)
+print(nine)
 
 
     
