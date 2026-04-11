@@ -6,7 +6,7 @@ for i in range(len(arr)):
     if arr[i]==a:
         idx=i
         
-if idx!=0:
+if idx!=-1:
     print(idx)
 else:
     print('None')
